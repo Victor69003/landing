@@ -1,0 +1,58 @@
+@import url("https://fonts.googleapis.com/css2?family=Lora:wght@500&display=swap");
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+  font-family: 'Lora', serif;
+  font-size: 13px;
+  margin: 0px;
+  color: green;
+}
+
+h1 {
+  font-family: 'Lora', serif;
+  font-size: 25px;
+  margin: 0px;
+  color: blue;
+}
+
+div {
+  font-family: 'Lora', serif;
+  font-size: 20px;
+  margin: 0px;
+  color: green;
+  font-weight: bold;
+}
+
+h5, h6 {
+  font-family: 'Lora', serif;
+  font-weight: bold;
+  font-size: 24px;
+  color: lightgrey;
+  justify-content: safe center;
+}
+
+h2, h3, h4 {
+  font-family: 'Lora', serif;
+  font-weight: bold;
+  font-size: 20px;
+  color: Blue;
+  justify-content: safe center;
+}
+
+.card-white {
+	background-color: lightgrey;
+	padding: 0px;
+    box-shadow: 0 10px 30px rgba(0,0,0,.1);
+    border-radius: 4px;
+    margin: 0px 0px;
+    text-align: center;
+}
+.list-inline i {
+	font-size: 100px;
+	color: rgb(30, 30, 30);
+	margin: 20px 0px;
+}

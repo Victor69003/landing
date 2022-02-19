@@ -1,0 +1,10 @@
+.banner {
+	background-image: url(../../images/colombie.jpeg);
+	color: green;
+  font-weight: bold;
+  font-size: 26;
+  padding: 10px 0px;
+}
+.banner img {
+  width: 250px;
+}
